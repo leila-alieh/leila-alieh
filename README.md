@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Leila Alieh</h1>
+<h3 align="center">Bioinformatcian & Neurobiologist</h3>
+<p align="center">
+  NGS | Mass Spectrometry | Multi-omics | Biomarker discovery | Alternative Splicing 
+</p>
 
-<!--
-**leila-alieh/leila-alieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro -->
+<h2> 👋 About me</h2>
+<p> Scientist passionate about leveraging data analysis to advance basic research, precision medicine, and global health, with expertise in transcriptomics, mass spectrometry, and reproducible bioinformatics workflows.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Now -->
+## 🔬 Current focus
+- 🔭 Currently working on improving biomarker discovery approaches from liquid biopsies
+- 🌱 Currently learning scikit-learn, machine learning, and human learning for large human dataset analysis
+- 👯 Open to collaborations on biomarker discovery and precision medicine projects
+
+<!-- Social -->
+<h2>🔗 Contact</h2>
+<p>
+  <a href="mailto:alieh.leila@proton.me">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/leila-alieh">💼 LinkedIn</a> |
+  <a href="https://https://www.semanticscholar.org/author/Leila-Haj-Abdullah-Alieh/91546550">🎓 SemanticScholar</a>
+</p>
+
