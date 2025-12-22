@@ -2,7 +2,7 @@
 <h1 align="center">Leila Alieh</h1>
 <h3 align="center">Bioinformatcian & Neurobiologist</h3>
 <p align="center">
-  NGS | Mass Spectrometry |Spatial and multi-omics | Biomarker discovery | Alternative Splicing 
+  NGS | Mass Spectrometry | Spatial and multi-omics | Biomarker discovery | Alternative Splicing 
 </p>
 
 <!-- Intro -->
