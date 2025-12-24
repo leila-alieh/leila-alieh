@@ -21,6 +21,6 @@
 <p>
   <a href="mailto:alieh.leila@proton.me">📧 Email</a> |
   <a href="https://www.linkedin.com/in/leila-alieh">💼 LinkedIn</a> |
-  <a href="https://https://www.semanticscholar.org/author/Leila-Haj-Abdullah-Alieh/91546550">🎓 SemanticScholar</a>
+  <a href="https://www.semanticscholar.org/author/Leila-Haj-Abdullah-Alieh/91546550">🎓 SemanticScholar</a>
 </p>
 
