@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Leila Alieh</h1>
-<h3 align="center">Bioinformatcian & Neurobiologist</h3>
+<h3 align="center">Bioinformatician & Neurobiologist</h3>
 <p align="center">
   NGS | Mass Spectrometry | Spatial and multi-omics | Biomarker discovery | Alternative Splicing 
 </p>
@@ -8,7 +8,7 @@
 <!-- Intro -->
 <h2> 👋 About me</h2>
 <p> Scientist passionate about leveraging data analysis to advance basic research, precision medicine, and global health, with expertise in transcriptomics, mass spectrometry, and reproducible bioinformatics workflows.
-
+<p> 
 
 <!-- Now -->
 ## 🔬 Current focus
